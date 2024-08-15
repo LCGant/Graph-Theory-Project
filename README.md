@@ -2,6 +2,10 @@
 
 This project implements Dijkstra's algorithm as a solution to the proposed problem: Finding the shortest path in an undirected graph, which uses dynamic memory allocation.
 
+## Context
+
+This project was developed as part of a university course on graph theory.
+
 ## How to Run the Code
 
 1. Compile the code using a C compiler. For example:
