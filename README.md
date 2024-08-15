@@ -17,6 +17,14 @@ This project implements Dijkstra's algorithm as a solution to the proposed probl
 
 The program includes three predefined example graphs that can be selected at runtime. You can also input your own graph by specifying the vertices and edges.
 
+## Development Environment
+
+- IDE: DEV-C++ 5.11
+- Compiler: MinGW (included with DEV-C++)
+- Operating System: Windows 10
+
+This project was developed and tested using the above tools. If you encounter issues, ensure that your environment matches these specifications as closely as possible.
+
 ## License
 
 This project is released under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).
